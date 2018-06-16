@@ -1,6 +1,7 @@
 // declare your functions here...
 function paragraphSelector(){
-  return $('p');
+  var paragraph = $('p')
+  return paragraph;
 }
 
 function lastImageSelector(){
